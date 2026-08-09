@@ -10,11 +10,11 @@ If you use this software or code in your research, please cite it as follows:
 
 **BibTeX:** 
 ```bibtex
-@software{Padhi_Beyond_linear_subspaces,
 author = {Padhi, Reetish},
 title = {{Beyond linear subspaces: Nonlinear moment matching meets quadratic manifolds}},
-url = {https://github.com/Rewtus/Moment-matching-quadratic-manifolds}
-}
+url = {https://github.com/Rewtus/Moment-matching-quadratic-manifolds},
+year = {2026},
+howpublished = {\url{https://github.com/Rewtus/Moment-matching-quadratic-manifolds}}
 ```
 
 
