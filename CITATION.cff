@@ -1,6 +1,3 @@
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
-
 cff-version: 1.2.0
 title: >-
   Beyond linear subspaces: Nonlinear moment matching meets
@@ -17,6 +14,10 @@ repository-code: >-
   https://github.com/Rewtus/Moment-matching-quadratic-manifolds
 url: >-
   https://github.com/Rewtus/Moment-matching-quadratic-manifolds
+howpublished: >-
+  https://github.com/Rewtus/Moment-matching-quadratic-manifolds
+date-released: '2026-01-01'
+year: 2026
 abstract: >-
   MATLAB implementation of moment matching quadratic
   manifold framework
